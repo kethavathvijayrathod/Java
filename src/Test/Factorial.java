@@ -9,7 +9,7 @@ public class Factorial {
 			fact=fact*num;
 			num--;
 		}
-		System.out.println(fact);
+		System.out.println("fact of "+no+" is "+fact);
 	}
 
 	public static void main(String[] args) {
