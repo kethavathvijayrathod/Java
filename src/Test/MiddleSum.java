@@ -9,6 +9,7 @@ public class MiddleSum {
       int len=s.length();
       int first=s.charAt(0)-'0';
       int last =s.charAt(len-1)-'0';
+      
       int midsum=0;
       for(int i=1;i<len-1;i++) {
     	   midsum=midsum+s.charAt(i)-'0';
