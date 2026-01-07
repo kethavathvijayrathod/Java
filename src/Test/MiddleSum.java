@@ -7,7 +7,7 @@ public class MiddleSum {
       }
       String s=Long.toString(num);
       int len=s.length();
-      int first=s.charAt(0)-'0';
+      int first=s.charAt(0)-'0';// -'0'--. converts charater into digit
       int last =s.charAt(len-1)-'0';
       
       int midsum=0;
