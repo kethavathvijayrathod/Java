@@ -13,9 +13,14 @@ public class prefix {
 			}
 			
 		}
+		for(int i=0;i<shortest.length();i++) {
+			
+		}
+		
 		System.out.println(shortest);
 
 	}
 	
 
 }
+// 
