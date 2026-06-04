@@ -13,8 +13,7 @@ public class prime2 {
 			if(count==2) {
 				prime++;
 				System.out.println(num);
-			}
-		}
+			}	}
 		System.out.println("total prime :"+prime);
 	}
 }

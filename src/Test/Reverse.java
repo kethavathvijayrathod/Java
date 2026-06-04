@@ -17,5 +17,6 @@ public class Reverse {
 		new Reverse().getno(765);
 
 	}
+	
 
 }

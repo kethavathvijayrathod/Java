@@ -42,7 +42,7 @@ public class BankMain {
 	    	}	
 	    }
 	    }
-	    	while(choice)
+	    	while(choice);
 	    {
 	    	break;
 	    }
