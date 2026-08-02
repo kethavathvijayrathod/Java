@@ -1,3 +1,5 @@
+
+
 package Functional;
 interface Number{
 	boolean checknumber(int n);

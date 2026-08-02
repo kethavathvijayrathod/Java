@@ -19,6 +19,7 @@ public class Ex1 {
 //		obj.sound();
 		
 		Animal obj=new Animal(){
+			@Override
 			public void sound() {
 				System.out.println("Dog barks");
 			}
